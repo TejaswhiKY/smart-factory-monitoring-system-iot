@@ -276,3 +276,63 @@ Dashboard alert
 Email notification
 
 Telegram notification
+
+------------------------------------------------------------------------------
+🏭 Applications
+----------------------------------------------------------------------
+
+Smart Factory
+
+Industrial Monitoring
+
+Preventive Maintenance
+
+Warehouse Monitoring
+
+IoT Automation
+
+--------------------------------------------------------------------------------------
+🚀 Future Scope
+---------------------------------------------------------------------------------------
+
+MQTT implementation
+
+Mobile app integration
+
+AI-based prediction
+
+More nodes expansion
+
+Advanced alert system
+
+--------------------------------------------------------------------------------
+✅ Conclusion
+----------------------------------------------------------------------------
+
+This project demonstrates how IoT can be used to build a Smart Factory Monitoring System.
+
+By integrating:
+
+Arduino
+
+Ethernet communication
+
+Cloud platform
+
+Simulation tools
+
+we achieved a scalable and real-time industrial monitoring solution.
+
+
+---------------------------------------------------------------------------------
+👨‍💻 Team
+-------------------------------------------------------------------------
+
+Tejaswhi K Y
+
+Toshita L
+
+Nisarga Hosamani
+
+----------------------------------------------------------------------------
+

@@ -324,15 +324,8 @@ Simulation tools
 we achieved a scalable and real-time industrial monitoring solution.
 
 
----------------------------------------------------------------------------------
-👨‍💻 Team
--------------------------------------------------------------------------
-
-Tejaswhi K Y
-
-Toshita L
-
-Nisarga Hosamani
+---------------------------------------------------------------------------
+This project was successfully designed and implemented by Tejaswhi K Y, demonstrating practical knowledge in IoT, sensor integration, and real-time industrial monitoring using ThingsBoard.
 
 ----------------------------------------------------------------------------
 
